@@ -1,6 +1,6 @@
 // bubble diameter is a random int between these two constants
-const BUBBLE_DIAMETER_MIN = 10;
-const BUBBLE_DIAMETER_MAX = 30;
+const BUBBLE_DIAMETER_MIN = 30;
+const BUBBLE_DIAMETER_MAX = 60;
 
 // define the speed the bubbles move in each direction
 const BUBBLE_SPEED_X = 1;
